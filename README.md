@@ -5,3 +5,5 @@ This guide is built from 2 parts:
 
 1. [Setuping HNSD, light node for handshake](/hnsd.md)
 2. [Setuping HNS-BRIDGE](/hns-bridge.md)
+
+Thanks [Costanzo](https://github.com/stanzo89) for writing! ;-)
