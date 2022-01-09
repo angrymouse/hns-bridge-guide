@@ -66,5 +66,5 @@ namebase.    139  IN  A  52.43.158.89
 ;; MSG SIZE  rcvd: 53
 ```
 
-Then my congratulations! You installed hnsd light node! Now move to [Installing HNS-bridge](/hns-bridge.md) if ou want to install it!
+Then my congratulations! You installed hnsd lite node! Now move to [Installing HNS-bridge](/hns-bridge.md) if ou want to install it!
 If not, then you did something wrong, try asking people on [this discord server](https://discord.gg/zRFXXuNJRZ)
