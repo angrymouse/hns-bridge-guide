@@ -43,7 +43,7 @@ Setup it like this:
 
 ```
 
-Don't forget to remove // with liknes after it - that's comments, if you don't remove it then config will be invalid and bridge won't work!
+Don't forget to remove // with lines after it - that's comments, if you don't remove it then config will be invalid and bridge won't work!
 
 
 ## Opening ports
